@@ -28,4 +28,3 @@ This project was built to demonstrate a complete CI/CD (Continuous Integration/C
 
 1.  Clone this repository to your local machine.
 2.  Open the `index.html` file in your browser.
-3.  To see the live, deployed version, visit the live demo link above.
