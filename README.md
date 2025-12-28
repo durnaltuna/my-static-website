@@ -2,10 +2,6 @@
 
 This repository contains the source code for a simple static website hosted on a robust, scalable, and fully automated cloud infrastructure.
 
-## Live Demo
-
-You can view the live website here: [https://tunadurnalcloud.com](https://tunadurnalcloud.com)
-
 ## Project Overview
 
 This project was built to demonstrate a complete CI/CD (Continuous Integration/Continuous Delivery) pipeline for deploying a static website using a modern DevOps toolchain.
